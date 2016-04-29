@@ -7,6 +7,11 @@
 
 $(document).ready(function(){
 	alert('Vince');
+
+	var doomsday = vince.length();
+
+
+	console.log(doomsday);
 });
 
 ```
