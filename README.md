@@ -1,6 +1,6 @@
 # This is the repo of vince duterte.
 
-	This is editied in sublime
+	This is edited in sublime
 
 ```javascript
 
